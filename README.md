@@ -8,6 +8,18 @@
 
  ━━━━━━━━━━━━━━━━━
 
+ ## ✨ Features
+
+- 📁 Store and retrieve files through Telegram
+- 🔗 Generate shareable links for stored files
+- 📦 Generate links for multiple posts using `/batch`
+- 📊 View bot and user statistics
+- 📢 Broadcast messages to bot users
+- 🔐 Optional protected content to prevent file forwarding
+- ⚙️ Configure the bot through environment variables
+- 🗄️ MongoDB-backed storage
+- 🚀 Supports multiple deployment platforms
+
 ### Variables
 
 * `API_HASH` Your API Hash from my.telegram.org
